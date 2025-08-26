@@ -54,11 +54,11 @@ $$
 分数更新公式：  
 
 $$
-R_a^{new} = R_a^{old} + K_a(S_a - E_a)
+R_a^{new} = R_a^{old} + K(S_a - E_a)
 $$
 
 $$
-R_b^{new} = R_b^{old} + K_b(S_b - E_b)
+R_b^{new} = R_b^{old} + K(S_b - E_b)
 $$  
 
 这里的 $K$ 是学习率,用来控制分数变动程度。  
