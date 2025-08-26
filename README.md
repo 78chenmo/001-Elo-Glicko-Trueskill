@@ -93,7 +93,7 @@ $$
 我们可以让：  
 
 $$
-K = \min(K_{max}, \, c(R - R_{min})), \quad c \in (0,1]
+K = \min(K_{max}, c(R - R_{min})), \quad c \in (0,1]
 $$  
 
 以下是一个具体的例子，我们取 $K_{max}=16$ ，$c= $ 
